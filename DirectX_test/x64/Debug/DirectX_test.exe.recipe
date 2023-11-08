@@ -2,15 +2,15 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\syuugo_main\OneDrive\DirectX_test\x64\Debug\DirectX_test.exe</FullPath>
+      <FullPath>C:\Users\syuugo_main\Desktop\DirectX_test\x64\Debug\DirectX_test.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles>
     <ContentFile>
-      <FullPath>C:\Users\syuugo_main\OneDrive\DirectX_test\x64\Debug\BasicPixelShader.cso</FullPath>
+      <FullPath>C:\Users\syuugo_main\Desktop\DirectX_test\x64\Debug\BasicPixelShader.cso</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>C:\Users\syuugo_main\OneDrive\DirectX_test\x64\Debug\BasicVertexShader.cso</FullPath>
+      <FullPath>C:\Users\syuugo_main\Desktop\DirectX_test\x64\Debug\BasicVertexShader.cso</FullPath>
     </ContentFile>
   </ContentFiles>
   <SatelliteDlls />
